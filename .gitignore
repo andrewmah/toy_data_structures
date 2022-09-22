@@ -1,4 +1,4 @@
 *.o
-main
+bin/*
 .vscode/*
 notes.md
